@@ -1,0 +1,11 @@
+word	count
+my	868
+amazon	397
+can	322
+me	321
+but	291
+have	285
+prime	280
+not	272
+order	267
+your	239
